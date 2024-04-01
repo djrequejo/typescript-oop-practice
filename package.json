@@ -1,0 +1,33 @@
+{
+  "name": "typescript-oop-demo",
+  "version": "1.0.0",
+  "description": "This project demonstrates the usage of OOP (Object-Oriented Programming) and design patterns, such as Singleton, with Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djrequejo/typescript-oop-demo.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "oop",
+    "poo"
+  ],
+  "author": "Diego Requejo Torero (https://github.com/djrequejo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djrequejo/typescript-oop-demo/issues"
+  },
+  "homepage": "https://github.com/djrequejo/typescript-oop-demo#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "axios": "^1.6.8",
+    "class-validator": "^0.14.1"
+  }
+}
